@@ -45,7 +45,10 @@ ul {
 .btn:hover {
     background-color: #45a049;
 }
-
+.app-wrapper{
+    display: flex;
+    align-items: center;
+}
 .app-card-brand{
     width: 9.4rem;
     height: 140px;
